@@ -1,2 +1,2 @@
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Master-Mind-007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Master-Mind-007&show_icons=true&title_color=D4ADFC&icon_color=5C469C&text_color=1D267D&bg_color=0C134F)
